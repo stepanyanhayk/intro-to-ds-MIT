@@ -48,4 +48,3 @@ if __name__ == '__main__':
     print("Expected output: 9 (3 * 25 + 2 * 10 + 4 * 1 = 99)")
     print("Actual output:", dp_make_weight(egg_weights, n))
     print()
-s
