@@ -1,0 +1,5 @@
+Yerevan Vanadzor 120 20
+Yerevan Kapan 180 30
+Vanadzor Gyumri 30 10
+Vanadzor Dilijan 40 15
+Kapan Meghri 60 18
